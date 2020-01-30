@@ -1,0 +1,17 @@
+{
+"companyName": "Made by Parker reynolds",
+"productName": "Multiplayer FPS",
+"productVersion": "1.0",
+"dataUrl": "2nd webgl.data.unityweb",
+"asmCodeUrl": "2nd webgl.asm.code.unityweb",
+"asmMemoryUrl": "2nd webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "2nd webgl.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#4D4343",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.17f1"
+}
